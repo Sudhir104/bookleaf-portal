@@ -2,7 +2,7 @@
 
 A two-sided web app (author portal + admin portal) where authors raise support tickets and BookLeaf's ops team handles them faster with AI-assisted classification, prioritisation and drafted replies.
 
-- **Live demo:** `<add your deployed frontend URL>`  ·  **API docs (Swagger):** `<add your API URL>/api/docs`
+- **Live demo:** `https://frontend-ft66.vercel.app`  ·  **API docs (Swagger):** `https://bookleaf-portal-2d11.onrender.com/api/docs`
 - **Stack:** React (Vite) · Node.js + Express 5 · MongoDB (Mongoose) · Server-Sent Events · Groq LLM API
 
 ## Test credentials (seeded)
